@@ -1,2 +1,3 @@
 Hello! Welcome to my repo!!!
 You can gain knowledge on Git.
+We can practice the git commands together.
