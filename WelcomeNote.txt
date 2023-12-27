@@ -1,3 +1,4 @@
 Hello! Welcome to my repo!!!
 You can gain knowledge on Git.
 We can practice the git commands together.
+use git --version to check the version of git installed in your system.
